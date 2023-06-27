@@ -1,4 +1,4 @@
-# Create React App + Kado IFrame Embed Demo
+#  Kado IFrame Embed Demo
 
 ### Review the `src/components/KadoIFrameModal` component
 
